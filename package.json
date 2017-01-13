@@ -23,7 +23,8 @@
     "pool"
   ],
   "author": "wshxbqq",
-  "license": "ISC",
+  "readmeFilename":"README.md",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wshxbqq/promise-process-pool/issues"
   },
