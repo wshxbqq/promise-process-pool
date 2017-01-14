@@ -1,32 +1,30 @@
 {
-  "name": "promise-process-pool",
-  "version": "1.0.0",
-  "engines": {
-    "node": ">= 4.0.0"
-  },
-  "description": "a promise based process pool",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test/index.js"
-  },
-  "files": [
-    "test.js",
-    "subProcess.js",
-    "index.js"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wshxbqq/promise-process-pool.git"
-  },
-  "keywords": [
-    "process",
-    "pool"
-  ],
-  "author": "wshxbqq",
-  "readmeFilename":"README.md",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wshxbqq/promise-process-pool/issues"
-  },
-  "homepage": "https://github.com/wshxbqq/promise-process-pool#readme"
+    "name": "promise-process-pool",
+    "readmeFilename": "readme.md",
+    "version": "1.0.3",
+    "engines": {
+        "node": ">= 4.0.0"
+    },
+    "description": "A promise based process pool",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test/index.js"
+    },
+    "files": [
+        "test",
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wshxbqq/promise-process-pool.git"
+    },
+    "keywords": [
+        "process",
+        "pool"
+    ],
+    "author": "wshxbqq",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wshxbqq/promise-process-pool/issues"
+    }
 }

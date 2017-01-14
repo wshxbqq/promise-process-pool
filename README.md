@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/promise-process-pool.png?downloads=true)](https://nodei.co/npm/promise-process-pool/)
 
-[![NPM version](https://badge.fury.io/js/promise-process-pool.png)](http://badge.fury.io/js/promise-process-pool)  [![Build Status](https://travis-ci.org/jdf2e/jdf.svg?branch=master)](https://travis-ci.org/jdf2e/jdf)
+[![NPM version](https://badge.fury.io/js/promise-process-pool.png)](http://badge.fury.io/js/promise-process-pool)  [![Build Status](https://travis-ci.org/wshxbqq/promise-process-pool.svg?branch=master)](https://travis-ci.org/wshxbqq/promise-process-pool)
 
 # Usage
 
